@@ -1,6 +1,7 @@
 # MMTextArea-Firefox
 
-MMTextArea-Firefox is built on top of Rabbit converter
+MMTextArea-Firefox is built on top of Rabbit converter. It can convert easily Unicode <=> Zawgyi
+vice versa in new tab.
 
 ![Screenshot](screenshot.png)
 
