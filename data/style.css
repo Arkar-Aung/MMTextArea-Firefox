@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Zawgyi-One';
+  src: url('fonts/zawgyi.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'PyiDaungSu';
+  src: url('fonts/pyidaungsu.ttf') format('truetype');
+}
+.container {
+	padding-top: 15px;
+}
+#zg,#uni {
+	height: 80vh;
+	resize: none;
+}
+.zg-text {
+	font-family: 'Zawgyi-One';
+}
+.uni-text {
+	font-family: 'PyiDaungSu';
+}
+.about {
+	padding: 15px;
+}

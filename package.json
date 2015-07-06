@@ -1,0 +1,10 @@
+{
+  "name": "mmtextarea-firefox",
+  "title": "MMTextArea-Firefox",
+  "id": "jid1-I3ehBswW9BhaNw",
+  "icon": "data/icon-48.png",
+  "description": "MMTextArea-Firefox is built on top of Rabbit converter",
+  "author": "ArkarAung",
+  "license": "MIT",
+  "version": "0.1"
+}
