@@ -1,7 +1,6 @@
 # MMTextArea-Firefox
 
-MMTextArea-Firefox is built on top of Rabbit converter. It can convert easily Unicode <=> Zawgyi
-vice versa in new tab.
+MMTextArea-Firefox is built on top of Rabbit converter. It can convert easily text from Unicode <=> Zawgyi vice versa in new tab. For Chrome, also available on [MMTextArea-Chrome](https://github.com/yelinaung/MMTextArea-Chrome).
 
 ![Screenshot](screenshot.png)
 
